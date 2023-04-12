@@ -1,0 +1,18 @@
+.table{
+    width: 50rem;
+    background-color: rgb(177, 253, 253);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+td{
+    padding: 0.5rem;
+}
+.td{
+    color: rgb(10, 180, 10);
+}
+.he{
+    text-decoration: underline ;
+}
+.my{
+    color: blue;
+}
